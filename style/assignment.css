@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner-container{
+    background-image: url(../images/banner/banner3.png);
+    width: 200%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+.banner-tittle{
+    color: #FFFFFF;
+    font-size: 65px;
+    text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+}
+.banner-description{
+    color: #FFFFFF;
+    font-size: 16px;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+}
